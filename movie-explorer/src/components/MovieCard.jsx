@@ -21,7 +21,7 @@ export default function MovieCard({ movie, addFavorite }) {
           onClick={() => addFavorite(movie)}
           className="px-3 py-1 bg-[#D5E6AB] text-[#193A3C] rounded hover:bg-[#cddfa3]"
         >
-          ❤️
+          
         </button>
       </div>
     </div>
