@@ -7,7 +7,7 @@ export default function MovieCard({ movie, addFavorite }) {
       <img
         src={movie.image?.medium || "https://via.placeholder.com/210x295"}
         alt={movie.name}
-        className="rounded-md mb-3"
+        className="rounded-md mb-3" 
       />
       <h2 className="font-semibold mb-2 text-center">{movie.name}</h2>
       <div className="flex space-x-2">
