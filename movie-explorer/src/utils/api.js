@@ -1,5 +1,5 @@
 export async function getAllMovies() {
-  const res = await fetch(`https://api.tvmaze.com/shows`);
+  const res = await fetch("https://api.tvmaze.com/shows");
   return await res.json();
 }
 

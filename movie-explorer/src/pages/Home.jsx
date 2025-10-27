@@ -29,7 +29,7 @@ export default function Home() {
       {loading ? (
         <p className="text-center text-[#193A3C]">Loading movies...</p>
       ) : filtered.length === 0 ? (
-        <p className="text-center text-[#193A3C]">No movies found </p>
+        <p className="text-center text-[#193A3C]">No movies found 😢</p>
       ) : (
         <div className="grid gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
           {filtered.map((movie) => (
