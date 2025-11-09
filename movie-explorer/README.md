@@ -1,18 +1,18 @@
-# 🎬 MovieMate - Movie Explorer App
+#  MovieMate - Movie Explorer App
 
 A beautiful, modern web app for exploring and discovering your favorite TV shows and movies. Built with React and powered by the TVMaze API, MovieMate lets you search through thousands of shows, filter by genre, save favorites, and dive deep into show details.
 
-## ✨ Features
+##  Features
 
-- **🔍 Smart Search**: Find any TV show instantly with live search
-- **🎭 Genre Filtering**: Filter shows by Drama, Comedy, Action, Romance, and more
-- **❤️ Favorites System**: Save shows you love to your personal favorites collection
-- **📱 Responsive Design**: Works beautifully on desktop, tablet, and mobile
-- **🎨 Modern UI**: Clean, intuitive interface with smooth animations
-- **📺 Show Details**: View detailed information including ratings, genres, and descriptions
-- **💾 Persistent Storage**: Your favorites are saved locally, so they stay with you
+- **Smart Search**: Find any TV show instantly with live search
+- **Genre Filtering**: Filter shows by Drama, Comedy, Action, Romance, and more
+- **Favorites System**: Save shows you love to your personal favorites collection
+- **Responsive Design**: Works beautifully on desktop, tablet, and mobile
+- **Modern UI**: Clean, intuitive interface with smooth animations
+- **Show Details**: View detailed information including ratings, genres, and descriptions
+- **Persistent Storage**: Your favorites are saved locally, so they stay with you
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -58,7 +58,7 @@ npm run preview
 npm run lint
 ```
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 This project is built using modern web technologies:
 
@@ -69,7 +69,7 @@ This project is built using modern web technologies:
 - **TVMaze API** - For fetching TV show data
 - **LocalStorage** - For saving your favorites
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 movie-explorer/
@@ -96,7 +96,7 @@ movie-explorer/
 └── vite.config.js        # Vite configuration
 ```
 
-## 🎯 How It Works
+##  How It Works
 
 ### Pages
 
@@ -119,7 +119,7 @@ movie-explorer/
 - Click "Details" on any show card to see more information
 - View the full description, genres, and high-quality images
 
-## 🎨 Customization
+##  Customization
 
 Want to change the colors? The app uses a lovely teal and green color scheme. You can customize it by editing the color values in the components:
 
@@ -127,13 +127,13 @@ Want to change the colors? The app uses a lovely teal and green color scheme. Yo
 - Primary text: `#193A3C` (dark teal)
 - Accent: Hover effects and buttons
 
-## 📝 Notes
+##  Notes
 
 - This app uses the TVMaze API, which is free and doesn't require an API key
 - Your favorites are stored in your browser's localStorage
 - The app is fully client-side - no backend required!
 
-## 🤝 Contributing
+##  Contributing
 
 Feel free to fork this project and make it your own! Some ideas for enhancements:
 
@@ -143,10 +143,10 @@ Feel free to fork this project and make it your own! Some ideas for enhancements
 - Create social sharing for favorites
 - Add dark mode toggle
 
-## 📄 License
+##  License
 
 This project is open source and available for you to use and modify as you wish.
 
 ---
 
-Enjoy exploring movies and shows! 🎉
+Enjoy exploring movies and shows! 
